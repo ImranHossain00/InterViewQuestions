@@ -11,6 +11,7 @@
   - Then adds input variables to the query and
   - In last executes the query and returns the outputs.
 <br>
+
 ### Problem-solving
 ### OOP
 ## FrontEnd
