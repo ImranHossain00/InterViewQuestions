@@ -17,4 +17,17 @@
 
 ### Problem-solving
 ### OOP
+- Defferenece between argument and parameter in methods/functions:
+  ```js
+  // Here in sleep funtion 'name' and 'time' are parameters
+  // which is part of function definition
+  function sleep(name, time) {
+      console.log(name + " is sleeping form " + time);
+  }
+
+  // Here "Imran" and "10 pm" are the actual value
+  // that is passed to the sleep function when it is calling
+  sleep("Imran", "10 pm");
+  sleep("Hossain", "12 pm");
+  ```
 ## FrontEnd
