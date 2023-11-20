@@ -1,7 +1,10 @@
 # InterViewQuestions
 ## Backend
-- Difference between **API** and **RESTfull API**:
+- Differences between **API** and **RESTfull API**:
   |                         API                             |                          RESTful API                          |
+  |---------------------------------------------------------|---------------------------------------------------------------|
+- Defferences between **RESTfull** and **GraphQL** API:
+  |                         RESTfull API                    |                          GraphQL API                          |
   |---------------------------------------------------------|---------------------------------------------------------------|
 ### DataBase
 - Generally 2 types of language are used in Database. 1. DDL(Data Definition Language) and 2. DML(Data Manipulation Language).
@@ -17,6 +20,11 @@
 
 ### Problem-solving
 ### OOP
+- The 4 Base concepts of the **OOP** are:
+  1 **Abstraction:**
+  2 **Polymorphism:**
+  3 **Inheritance:**
+  4 **Encapsulation:**
 - Defferenece between argument and parameter in methods/functions:
   ```js
   // Here in sleep funtion 'name' and 'time' are parameters
