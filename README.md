@@ -21,10 +21,10 @@
 ### Problem-solving
 ### OOP
 - The 4 Base concepts of the **OOP** are:
-  1 **Abstraction:**
-  2 **Polymorphism:**
-  3 **Inheritance:**
-  4 **Encapsulation:**
+  1. **Abstraction:**
+  2. **Polymorphism:**
+  3. **Inheritance:**
+  4. **Encapsulation:**
 - Defferenece between argument and parameter in methods/functions:
   ```js
   // Here in sleep funtion 'name' and 'time' are parameters
