@@ -7,7 +7,7 @@
 - Defferences between **RESTfull** and **GraphQL** API:
   |                         RESTfull API                    |                          GraphQL API                          |
   |---------------------------------------------------------|---------------------------------------------------------------|
-### DataBase
+## DataBase
 - Generally 2 types of language are used in Database. 1. DDL(Data Definition Language) and 2. DML(Data Manipulation Language).
   Where table structure is defined by DDL and various queries like reading data, changing and deleting etc. are done with DML.
 - When we run a query in a database then database execute this query in several steps.. 
@@ -25,10 +25,10 @@
   5. **TCL (Transaction Control Language):** start transaction, commit, rollback
 <br>
 
-### Problem-solving
-### Java 
+## Problem-solving
+## Java 
 - GO TO -> [here](https://github.com/ImranHossain00/JavaPractice)
-### OOP
+## OOP
 - The 4 Base concepts of the **OOP** are:
   1. **Abstraction:**
   2. **Polymorphism:**
