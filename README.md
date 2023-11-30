@@ -17,7 +17,7 @@
   - Makes execution plan of the query
   - Then adds input variables to the query and
   - In last executes the query and returns the outputs.
-- **Types of SQL Commands:
+- **Types of SQL Commands:**
   1. **DDL (Data Definition Language):** create, alter, rename, truncate & drop
   2. **DQL (Data Query Language):** select
   3. **DML (Data Manipulation Language):** insert, update & delete
