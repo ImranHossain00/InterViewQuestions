@@ -4,7 +4,7 @@
   |                         **Byte-Code**                             |                          **Machine Code**                          |
   |-------------------------------------------------------------------|--------------------------------------------------------------------|
   |It is a intermediate representation of a program that is generated |Also known as `native code` which is the low-level binary           |
-  |by a `compiler`.                                                   |representation of instruction that can be executed by a computer's  |
+   by a `compiler`.                                                    representation of instruction that can be executed by a computer's  
   |                                                                   |CPU.                                                                |
   |-------------------------------------------------------------------|--------------------------------------------------------------------|
   |Platform indepentent.                                              |Platform specific may not run without modification in different     |
